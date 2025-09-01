@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions & Discussions / 質問・ディスカッション
+    url: https://github.com/tiebase/info/discussions
+    about: Please use Discussions for questions and general discussions / 質問や議論はDiscussionsでお願いします
