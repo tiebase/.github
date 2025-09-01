@@ -1,8 +1,8 @@
 # TieBase
 
 <div align="center">
-  <h2>🎯 Empowering Businesses with Smart Automation</h2>
-  <p><strong>ビジネスをスマートな自動化で支援</strong></p>
+  <h2>📝 Capture Ideas, Shape with AI</h2>
+  <p><strong>思いつきを書き留め、AIで形にする</strong></p>
 </div>
 
 ---
@@ -10,34 +10,33 @@
 ## 🌟 About Us / 私たちについて
 
 **English:**
-TieBase develops innovative SaaS solutions that streamline business operations through intelligent automation and seamless integrations. Our mission is to help businesses focus on what matters most - their customers and growth.
+TieBase is a desktop sticky notes application with MCP (Model Context Protocol) integration. Capture your ideas instantly and let AI help you organize, develop, and transform them into actionable insights.
 
 **日本語:**
-TieBaseは、インテリジェントな自動化とシームレスな統合により、ビジネスオペレーションを効率化する革新的なSaaSソリューションを開発しています。私たちの使命は、企業が最も重要なこと - 顧客と成長 - に集中できるよう支援することです。
+TieBaseは、MCP（Model Context Protocol）連携機能を持つデスクトップ付箋アプリケーションです。思いついたアイデアを即座に書き留め、AIが整理・発展・実用的な洞察への変換をサポートします。
 
-## 🚀 Our Products / プロダクト
+## 🚀 Our Product / プロダクト
 
-### 📱 LINE Support SaaS
+### 📌 TieBase - Sticky Notes with AI
 **English:**
-A comprehensive customer support solution integrated with LINE messaging platform, enabling businesses to provide exceptional customer service through familiar channels.
+A local-first sticky notes application that seamlessly integrates with AI through MCP, enabling you to capture ideas and transform them with AI assistance.
 
 **日本語:**
-LINEメッセージングプラットフォームと統合された包括的なカスタマーサポートソリューション。お客様に馴染みのあるチャネルを通じて、優れたカスタマーサービスを提供できます。
+MCP経由でAIとシームレスに統合するローカルファーストの付箋アプリケーション。アイデアを記録し、AIの支援で変換できます。
 
 **Key Features / 主な機能:**
-- Multi-tenant architecture / マルチテナントアーキテクチャ
-- Real-time messaging / リアルタイムメッセージング
-- Automated ticket management / 自動チケット管理
-- Analytics dashboard / 分析ダッシュボード
+- Sticky note-like interface / 付箋ライクなインターフェース
+- MCP integration for AI capabilities / AI機能のためのMCP統合
+- Local-first design / ローカルファースト設計
+- Privacy-focused / プライバシー重視
 
 ## 🛠 Technology Stack / 技術スタック
 
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
-- **Backend:** Cloudflare Workers, Hono.js
-- **Database:** Cloudflare D1, KV
-- **Infrastructure:** Cloudflare ecosystem
-- **Authentication:** Clerk
-- **Payment:** Stripe
+- **Desktop Framework:** Tauri
+- **Frontend:** React, TypeScript, Vite
+- **Database:** SQLite (via Drizzle ORM)
+- **MCP Server:** Go
+- **AI Integration:** Model Context Protocol
 
 ## 🤝 Contributing / コントリビューション
 
@@ -67,6 +66,6 @@ Our open-source projects are licensed under various licenses. Please check indiv
 ---
 
 <div align="center">
-  <p><strong>Building the future of business automation</strong></p>
-  <p><strong>ビジネス自動化の未来を創造する</strong></p>
+  <p><strong>Capture Ideas, Shape with AI</strong></p>
+  <p><strong>思いつきを書き留め、AIで形にする</strong></p>
 </div>
